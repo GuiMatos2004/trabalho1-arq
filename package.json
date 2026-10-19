@@ -1,0 +1,11 @@
+{
+  "name": "techstore-solid-refatorado",
+  "version": "1.0.0",
+  "description": "TechStore refatorado com SOLID, composição e testes automatizados",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
